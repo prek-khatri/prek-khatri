@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%7C+ML+Researcher;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%7C+ML+Researcher;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -42,8 +42,6 @@ Currently working on my personal portfolio — a full-stack web app where I docu
 - 🌗 Dark / light theme with smooth transitions
 - 📅 Interactive GitHub contributions calendar
 - ☁️ Interactive icon cloud for tech stack visualization
-
-&nbsp;&nbsp;&nbsp;&nbsp;[View Source](https://github.com/prek-khatri/portfolio-preksha)
 
 ---
 
@@ -112,17 +110,6 @@ Currently working on my personal portfolio — a full-stack web app where I docu
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prek-khatri&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -134,6 +121,6 @@ Currently working on my personal portfolio — a full-stack web app where I docu
 ## ✍️ Quote I Code By
 
 ```
-"First, solve the problem. Then, write the code."
-                                    — John Johnson
+"Code never lies, comments sometimes do."
+                              — Ron Jeffries
 ```
