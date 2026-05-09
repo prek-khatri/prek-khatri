@@ -23,11 +23,13 @@
 
 I'm a software engineer who genuinely loves building — whether it's a full-stack app, an ML pipeline, or something in between. I care about writing clean code, shipping real things, and learning every step of the way.
 
-- 🔭 Working on **LLMs, RAG systems, and multimodal AI** — I find NLP endlessly fascinating
+- 💻 Passionate about **full-stack development** — building end-to-end products with React, Next.js, Node.js, and cloud infrastructure
+- 🔭 Exploring **LLMs, RAG systems, and multimodal AI** — I find NLP endlessly fascinating
 - 🤝 Open to **contributing to open source** — love collaborating with great people on meaningful projects
 - 🧩 I grind **LeetCode** for fun (yes, really) and enjoy thinking through algorithmic problems
 - 📄 **IEEE-published researcher** — built systems that actually got tested in the real world
 - 💼 Actively seeking **SWE / ML engineering** roles
+- 🏢 Currently working as **Web Developer at USC Leonard Davis School of Gerontology**
 - 📫 **prekshakhatri10@gmail.com**
 
 ---
@@ -36,12 +38,13 @@ I'm a software engineer who genuinely loves building — whether it's a full-sta
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · MDX · Headless UI · Radix UI · ESLint · Prettier
 
+Currently working on my personal portfolio — a full-stack web app where I document my projects, publish technical blogs, and showcase my journey as an engineer.
+
 - 📝 MDX blog with syntax-highlighted code and social embeds (Twitter, GitHub)
 - 🌗 Dark / light theme with smooth transitions
 - 📅 Interactive GitHub contributions calendar
 - ☁️ Interactive icon cloud for tech stack visualization
 
-Currently working as a Web Developer at USC Leonard Davis School of Gerontology where I develop new features and interactive components for the Center for Advancing Caregiver Financial and Workplace Security websiteand showcase my journey as an engineer.
 ---
 
 ## 💻 Tech Stack
@@ -117,7 +120,7 @@ Currently working as a Web Developer at USC Leonard Davis School of Gerontology 
 
 ---
 
-## ✍️Fun Fact
+## ✍️ Quote I Code By
 
 ```
 "Code never lies, comments sometimes do."
