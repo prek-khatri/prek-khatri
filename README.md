@@ -29,7 +29,7 @@ I'm a software engineer who genuinely loves building — whether it's a full-sta
 - 🤝 Open to **contributing to open source** — love collaborating with great people on meaningful projects
 - 🧩 I grind **LeetCode** for fun (yes, really) 
 - 📄 **IEEE-published researcher** — built systems that actually got tested in the real world
-- 💼 Actively seeking **SWE / ML engineering** roles
+- 💼 Actively seeking **SDE / ML engineering** roles
 - 📫 **prekshakhatri10@gmail.com**
 
 ---
