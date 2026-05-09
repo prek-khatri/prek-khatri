@@ -117,7 +117,7 @@ Currently working as a Web Developer at USC Leonard Davis School of Gerontology 
 
 ---
 
-## ✍️ Quote I Code By
+## ✍️Fun Fact
 
 ```
 "Code never lies, comments sometimes do."
