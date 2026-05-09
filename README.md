@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%26+ML+Researcher;Open+to+SWE+%26+ML+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%7C+ML+Researcher;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/preksha-khatri-59811a218/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://prekshakhatri.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZgaTyjmZCorD3ic6OItqTsgBj8Y6ftBk2QNCIqDncsmnlVAGG6AEZwhdvu7KQg1bHeyRTnXCZEMEgP-A&user=9XCEZCAAAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
+  <a href="https://www.linkedin.com/in/preksha-khatri-59811a218/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://prekshakhatri.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZgaTyjmZCorD3ic6OItqTsgBj8Y6ftBk2QNCIqDncsmnlVAGG6AEZwhdvu7KQg1bHeyRTnXCZEMEgP-A&user=9XCEZCAAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:prekshakhatri10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -21,13 +21,28 @@
 
 ## 💫 About Me
 
-- 💻 CS student who loves building — from full-stack web apps to production ML systems
-- 🤖 Experienced in **LLMs, RAG pipelines, multimodal AI**, and **computer vision**
-- 🌱 Always learning — currently diving deeper into **distributed systems** and **ML infrastructure**
-- 🤝 Open to **contributing to open source** projects — love collaborating and giving back to the community
-- 📄 **IEEE-published researcher** in multimodal AI
-- 💼 Actively seeking **SWE / ML engineering** opportunities
+I'm a software engineer who genuinely loves building — whether it's a full-stack app, an ML pipeline, or something in between. I care about writing clean code, shipping real things, and learning every step of the way.
+
+- 🔭 Working on **LLMs, RAG systems, and multimodal AI** — I find NLP endlessly fascinating
+- 🤝 Open to **contributing to open source** — love collaborating with great people on meaningful projects
+- 🧩 I grind **LeetCode** for fun (yes, really) and enjoy thinking through algorithmic problems
+- 📄 **IEEE-published researcher** — built systems that actually got tested in the real world
+- 💼 Actively seeking **SWE / ML engineering** roles
 - 📫 **prekshakhatri10@gmail.com**
+
+---
+
+## 🌐 Portfolio
+
+> **[prekshakhatri.netlify.app](https://prekshakhatri.netlify.app)** &nbsp;|&nbsp; [Source Code](https://github.com/prek-khatri/portfolio-preksha)
+
+Built my own portfolio from scratch — not a template. Features I'm proud of:
+
+- 📝 **MDX blog** with syntax-highlighted code and social embeds (Twitter, GitHub)
+- 🌗 **Dark / light theme** with smooth transitions
+- 📅 **Interactive GitHub contributions calendar**
+- ☁️ **Interactive icon cloud** for tech stack visualization
+- Built with **Next.js · React · TypeScript · Tailwind CSS · Headless UI · Radix UI**
 
 ---
 
@@ -99,13 +114,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prek-khatri&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prek-khatri&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -113,7 +128,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prek-khatri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prek-khatri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -121,11 +136,11 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prek-khatri&icon=0&color=6" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=prek-khatri&icon=0&color=6" alt="Profile Views"/>
 </p>
