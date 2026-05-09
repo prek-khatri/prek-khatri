@@ -23,28 +23,25 @@
 
 I'm a software engineer who genuinely loves building — whether it's a full-stack app, an ML pipeline, or something in between. I care about writing clean code, shipping real things, and learning every step of the way.
 
-- 💻 Passionate about **full-stack development** — building end-to-end products with React, Next.js, Node.js, and cloud infrastructure
+- 💻 Passionate about **full-stack development** — building end-to-end products with React,JavaScript,TypeScript, and cloud infrastructure
 - 🔭 Exploring **LLMs, RAG systems, and multimodal AI** — I find NLP endlessly fascinating
+- 🏢 Currently working as **Web Developer at USC Leonard Davis School of Gerontology**
 - 🤝 Open to **contributing to open source** — love collaborating with great people on meaningful projects
 - 🧩 I grind **LeetCode** for fun (yes, really) and enjoy thinking through algorithmic problems
 - 📄 **IEEE-published researcher** — built systems that actually got tested in the real world
 - 💼 Actively seeking **SWE / ML engineering** roles
-- 🏢 Currently working as **Web Developer at USC Leonard Davis School of Gerontology**
 - 📫 **prekshakhatri10@gmail.com**
 
 ---
 
 ## 🌐 Portfolio — [prekshakhatri.netlify.app](https://prekshakhatri.netlify.app)
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · MDX · Headless UI · Radix UI · ESLint · Prettier
-
-Currently working on my personal portfolio — a full-stack web app where I document my projects, publish technical blogs, and showcase my journey as an engineer.
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · MDX · Headless UI · Radix UI · ESLint · Prettier · Netlify 
 
 - 📝 MDX blog with syntax-highlighted code and social embeds (Twitter, GitHub)
 - 🌗 Dark / light theme with smooth transitions
 - 📅 Interactive GitHub contributions calendar
 - ☁️ Interactive icon cloud for tech stack visualization
-
 ---
 
 ## 💻 Tech Stack
@@ -112,17 +109,17 @@ Currently working on my personal portfolio — a full-stack web app where I docu
 
 ---
 
+## ✍️ FunFact
+
+```
+"Code never lies, comments sometimes do."
+                              — Ron Jeffries
+```
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prek-khatri&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
----
-
-## ✍️ Quote I Code By
-
-```
-"Code never lies, comments sometimes do."
-                              — Ron Jeffries
-```
