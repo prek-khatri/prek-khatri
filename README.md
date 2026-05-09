@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%7C+ML+Researcher;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%7C+ML+Researcher;I+build+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -32,17 +32,18 @@ I'm a software engineer who genuinely loves building — whether it's a full-sta
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio — [prekshakhatri.netlify.app](https://prekshakhatri.netlify.app)
 
-> **[prekshakhatri.netlify.app](https://prekshakhatri.netlify.app)** &nbsp;|&nbsp; [Source Code](https://github.com/prek-khatri/portfolio-preksha)
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · MDX · Headless UI · Radix UI · ESLint · Prettier
 
-Built my own portfolio from scratch — not a template. Features I'm proud of:
+Currently working on my personal portfolio — a full-stack web app where I document my projects, publish technical blogs, and showcase my journey as an engineer.
 
-- 📝 **MDX blog** with syntax-highlighted code and social embeds (Twitter, GitHub)
-- 🌗 **Dark / light theme** with smooth transitions
-- 📅 **Interactive GitHub contributions calendar**
-- ☁️ **Interactive icon cloud** for tech stack visualization
-- Built with **Next.js · React · TypeScript · Tailwind CSS · Headless UI · Radix UI**
+- 📝 MDX blog with syntax-highlighted code and social embeds (Twitter, GitHub)
+- 🌗 Dark / light theme with smooth transitions
+- 📅 Interactive GitHub contributions calendar
+- ☁️ Interactive icon cloud for tech stack visualization
+
+&nbsp;&nbsp;&nbsp;&nbsp;[View Source](https://github.com/prek-khatri/portfolio-preksha)
 
 ---
 
@@ -111,11 +112,8 @@ Built my own portfolio from scratch — not a template. Features I'm proud of:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prek-khatri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=prek-khatri&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
@@ -133,14 +131,9 @@ Built my own portfolio from scratch — not a template. Features I'm proud of:
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Quote I Code By
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prek-khatri&icon=0&color=6" alt="Profile Views"/>
-</p>
+```
+"First, solve the problem. Then, write the code."
+                                    — John Johnson
+```
