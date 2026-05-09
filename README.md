@@ -23,7 +23,7 @@
 
 I'm a software engineer who genuinely loves building — whether it's a full-stack app, an ML pipeline, or something in between. I care about writing clean code, shipping real things, and learning every step of the way.
 
-- 💻 Passionate about **full-stack development** — building end-to-end products with React,JavaScript,TypeScript, and cloud infrastructure
+- 💻 Passionate about **full-stack development** — building end-to-end products with React,TypeScript, and cloud infrastructure
 - 🔭 Exploring **LLMs, RAG systems, and multimodal AI** — I find NLP endlessly fascinating
 - 🏢 Currently working as **Web Developer at USC Leonard Davis School of Gerontology**
 - 🤝 Open to **contributing to open source** — love collaborating with great people on meaningful projects
