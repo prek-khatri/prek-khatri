@@ -36,13 +36,12 @@ I'm a software engineer who genuinely loves building — whether it's a full-sta
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · MDX · Headless UI · Radix UI · ESLint · Prettier
 
-Currently working on my personal portfolio — a full-stack web app where I document my projects, publish technical blogs, and showcase my journey as an engineer.
-
 - 📝 MDX blog with syntax-highlighted code and social embeds (Twitter, GitHub)
 - 🌗 Dark / light theme with smooth transitions
 - 📅 Interactive GitHub contributions calendar
 - ☁️ Interactive icon cloud for tech stack visualization
 
+Currently working as a Web Developer at USC Leonard Davis School of Gerontology where I develop new features and interactive components for the Center for Advancing Caregiver Financial and Workplace Security websiteand showcase my journey as an engineer.
 ---
 
 ## 💻 Tech Stack
