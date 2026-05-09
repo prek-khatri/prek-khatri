@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Preksha+Khatri+%F0%9F%91%8B;MS+CS+%40+USC+%7C+GPA+3.7%2F4;Software+Engineer+%26+ML+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Preksha+Khatri+%F0%9F%91%8B;Software+Engineer+%26+ML+Researcher;Open+to+SWE+%26+ML+Opportunities" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/preksha-khatri-59811a218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://prekshakhatri.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL" target="_blank">
+  <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZgaTyjmZCorD3ic6OItqTsgBj8Y6ftBk2QNCIqDncsmnlVAGG6AEZwhdvu7KQg1bHeyRTnXCZEMEgP-A&user=9XCEZCAAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:prekshakhatri10@gmail.com">
@@ -21,12 +21,13 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing **MS in Computer Science** at **University of Southern California** *(GPA: 3.7/4)*
-- 🔭 Passionate about **Full-Stack Development**, **AI/ML**, and **NLP Research**
-- 🌱 Currently exploring **LLMs, RAG pipelines**, and **multimodal AI systems**
-- 📄 IEEE-published researcher with experience in multimodal memes and computer vision
-- 📍 Based in **Los Angeles, CA**
-- 📫 Reach me at **prekshakhatri10@gmail.com**
+- 💻 CS student who loves building — from full-stack web apps to production ML systems
+- 🤖 Experienced in **LLMs, RAG pipelines, multimodal AI**, and **computer vision**
+- 🌱 Always learning — currently diving deeper into **distributed systems** and **ML infrastructure**
+- 🤝 Open to **contributing to open source** projects — love collaborating and giving back to the community
+- 📄 **IEEE-published researcher** in multimodal AI
+- 💼 Actively seeking **SWE / ML engineering** opportunities
+- 📫 **prekshakhatri10@gmail.com**
 
 ---
 
